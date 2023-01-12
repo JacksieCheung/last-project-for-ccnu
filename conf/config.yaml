@@ -1,0 +1,7 @@
+local_name: last-project
+db:
+  name: last_project
+  addr: localhost
+  username: root
+  password: root1234
+
